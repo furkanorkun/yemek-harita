@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/furkan/map-project/mapProject/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/furkan/map-project/yemek-harita/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/furkan/.gradle/caches/transforms-2/files-2.1/d14dbad7340cad958a2e361a440b498d/appcompat-1.1.0/res/values/values.xml",
@@ -37,6 +37,25 @@
                         "startOffsets": "37945,37985,38378,38560,38615,39499,39553,39605,39654,39715",
                         "endColumns": "39,46,42,54,46,53,51,48,60,49",
                         "endOffsets": "37980,38027,38416,38610,38657,39548,39600,39649,39710,39760"
+                    }
+                },
+                {
+                    "source": "/home/furkan/map-project/yemek-harita/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "234"
+                    },
+                    "to": {
+                        "startLines": "829",
+                        "startColumns": "4",
+                        "startOffsets": "61588",
+                        "endLines": "832",
+                        "endColumns": "12",
+                        "endOffsets": "61768"
                     }
                 },
                 {
@@ -173,40 +192,6 @@
                     }
                 },
                 {
-                    "source": "/home/furkan/map-project/mapProject/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "47",
-                        "endOffsets": "59"
-                    },
-                    "to": {
-                        "startLines": "681",
-                        "startColumns": "4",
-                        "startOffsets": "43784",
-                        "endColumns": "47",
-                        "endOffsets": "43827"
-                    }
-                },
-                {
-                    "source": "/home/furkan/map-project/mapProject/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
-                    "from": {
-                        "startLines": "6,8",
-                        "startColumns": "4,4",
-                        "startOffsets": "156,262",
-                        "endColumns": "63,68",
-                        "endOffsets": "215,326"
-                    },
-                    "to": {
-                        "startLines": "645,646",
-                        "startColumns": "4,4",
-                        "startOffsets": "41265,41329",
-                        "endColumns": "63,68",
-                        "endOffsets": "41324,41393"
-                    }
-                },
-                {
                     "source": "/home/furkan/.gradle/caches/transforms-2/files-2.1/dcffa74d8d015470a7eae32b9eb648c7/jetified-play-services-basement-17.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "4,7",
@@ -224,22 +209,20 @@
                     }
                 },
                 {
-                    "source": "/home/furkan/map-project/mapProject/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/furkan/map-project/yemek-harita/android/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "3",
+                        "startLines": "1",
                         "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "234"
+                        "startOffsets": "16",
+                        "endColumns": "47",
+                        "endOffsets": "59"
                     },
                     "to": {
-                        "startLines": "829",
+                        "startLines": "681",
                         "startColumns": "4",
-                        "startOffsets": "61588",
-                        "endLines": "832",
-                        "endColumns": "12",
-                        "endOffsets": "61768"
+                        "startOffsets": "43784",
+                        "endColumns": "47",
+                        "endOffsets": "43827"
                     }
                 },
                 {
@@ -371,6 +354,23 @@
                         "startOffsets": "37762,37831",
                         "endColumns": "68,56",
                         "endOffsets": "37826,37883"
+                    }
+                },
+                {
+                    "source": "/home/furkan/map-project/yemek-harita/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "156,262",
+                        "endColumns": "63,68",
+                        "endOffsets": "215,326"
+                    },
+                    "to": {
+                        "startLines": "645,646",
+                        "startColumns": "4,4",
+                        "startOffsets": "41265,41329",
+                        "endColumns": "63,68",
+                        "endOffsets": "41324,41393"
                     }
                 }
             ]
